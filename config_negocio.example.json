@@ -1,0 +1,35 @@
+{
+  "seo_title": "CasaNexus | Top 3 Gadgets de Casa Inteligente Baratos (Guia 2026)",
+  "seo_description": "Transforme sua casa comum em uma casa inteligente gastando pouco. Confira os 3 dispositivos Wi-Fi mais vendidos e compatíveis com Alexa e Google.",
+  "headline": "3 Gadgets Baratos que Deixam Qualquer Casa Inteligente em 5 Minutos",
+  "subheadline": "Sem reformar paredes e sem pagar caro. Selecionamos os dispositivos Wi-Fi mais bem avaliados no Brasil que funcionam direto no celular, Alexa ou Google.",
+  "marca_prefixo": "Casa",
+  "marca_sufixo": "Nexus",
+  "selo_topo": "Curadoria 2026",
+  "cor_fundo": "#0B0F19",
+  "cor_card": "#131A2A",
+  "cor_destaque": "#38BDF8",
+  "cor_cta": "#10B981",
+  "meta_pixel_id": "SEU_META_PIXEL_ID",
+  "tiktok_pixel_id": "SEU_TIKTOK_PIXEL_ID",
+  "ofertas": [
+    {
+      "tag": "#1 Mais Vendido • Economia de Energia",
+      "titulo": "Tomada Inteligente Wi-Fi com Medidor de Consumo",
+      "descricao": "Transforma cafeteira, ventilador, abajur ou PC em aparelhos automáticos e mostra exatamente quanto cada equipamento gasta em reais no mês.",
+      "beneficios": [
+        "Agenda horários automáticos para ligar e desligar sozinha",
+        "Monitoramento de consumo em tempo real pelo aplicativo",
+        "Bivolt e homologada pela Anatel"
+      ],
+      "preco": 49.90,
+      "cta": "Ver Oferta com Desconto na Loja Oficial",
+      "link": "SEU_LINK_AFILIADO_1"
+    }
+  ],
+  "lead_titulo": "Quer Receber Ofertas Relâmpago de Casa Inteligente?",
+  "lead_subtitulo": "Enviamos apenas cupons reais e quedas de preço verificadas no nosso canal silencioso.",
+  "lead_cta": "Entrar na Lista VIP Gratuita",
+  "lead_link": "https://wa.me/55SEUNUMERO?text=Oi!%20Vim%20do%20CasaNexus",
+  "aviso_legal": "Aviso de Transparência (LGPD & Afiliados): Participamos de programas de afiliados e podemos receber comissão sem custo adicional para você."
+}
